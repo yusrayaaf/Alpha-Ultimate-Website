@@ -44,7 +44,7 @@ export default function AdminLogin() {
             <Lock size={26} className="text-[#070712]" />
           </div>
           <h1 className="text-2xl font-black text-white" style={{fontFamily:"var(--font-display)"}}>Admin Access</h1>
-          <p className="text-gray-600 text-sm mt-1">Alpha Ultimate Dashboard</p>
+          <p className="text-gray-600 text-sm mt-1">Elevate Builders Dashboard</p>
         </div>
 
         <div className="spark-border p-8">

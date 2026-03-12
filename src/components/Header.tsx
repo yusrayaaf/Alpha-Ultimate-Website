@@ -42,15 +42,10 @@ export default function Header() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-3.5 flex items-center justify-between gap-4">
         {/* Logo */}
         <NavLink to="/" onClick={() => setOpen(false)} className="flex items-center gap-3 group flex-shrink-0">
-          <div className="relative w-9 h-9 rounded-xl flex items-center justify-center shadow-[0_0_20px_rgba(255,209,102,0.3)]"
-            style={{ background: 'linear-gradient(135deg,#FFD166,#FF9A3C)' }}>
-            <img src={assets.logo} alt="Alpha Ultimate" className="w-7 h-7 object-contain"
+          <div className="relative flex items-center justify-center">
+            <img src={assets.logo} alt="Elevate Builders Ltd" className="h-10 w-auto object-contain"
               loading="eager" onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }} />
             <span className="absolute -top-0.5 -right-0.5 w-2.5 h-2.5 rounded-full border-2 border-[#050508] bg-green-400 animate-pulse" />
-          </div>
-          <div className="leading-none">
-            <span className="block text-[15px] font-black tracking-[0.18em] text-white uppercase" style={{ fontFamily: 'Urbanist, sans-serif' }}>ELEVATE</span>
-            <span className="block text-[8px] font-semibold tracking-[0.3em] uppercase" style={{ color: '#FFD166', fontFamily: 'Space Grotesk, sans-serif' }}>BUILDERS LTD</span>
           </div>
         </NavLink>
 

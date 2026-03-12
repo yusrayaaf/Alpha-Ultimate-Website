@@ -20,15 +20,8 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-1">
             <NavLink to="/" className="flex items-center gap-3 mb-5 group">
-              <div className="w-9 h-9 rounded-xl flex items-center justify-center"
-                style={{ background: 'linear-gradient(135deg,#FFD166,#FF9A3C)', boxShadow: '0 0 20px rgba(255,209,102,0.25)' }}>
-                <img src={assets.logo} alt="Alpha" className="w-7 h-7 object-contain"
+              <img src={assets.logo} alt="Elevate Builders Ltd" className="h-10 w-auto object-contain"
                   onError={(e) => { (e.target as HTMLImageElement).style.display='none'; }} />
-              </div>
-              <div>
-                <span className="block text-[15px] font-black tracking-[0.18em] text-white" style={{ fontFamily: 'Urbanist, sans-serif' }}>ELEVATE</span>
-                <span className="block text-[8px] tracking-[0.3em] uppercase" style={{ color: '#FFD166', fontFamily: 'Space Grotesk, sans-serif' }}>BUILDERS LTD</span>
-              </div>
             </NavLink>
             <p className="text-gray-600 text-sm leading-relaxed mb-6" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>
               Riyadh's most trusted premium cleaning service. Transforming homes and offices since 2023.

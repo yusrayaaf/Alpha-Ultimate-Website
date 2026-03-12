@@ -105,7 +105,7 @@ function speak(text: string, lang: string, onEnd?: () => void) {
 
 const GREETINGS: Record<string, string> = {
   en: "Hello! I'm **Yusra** ✨ — your dedicated assistant at ELEVATE BUILDERS LTD.\n\nI'm here to help you with:\n• **Service information** and pricing\n• **Booking** a cleaning session\n• **Availability** and scheduling\n• Any **cleaning questions** you have\n\nHow can I assist you today?",
-  ar: "أهلاً وسهلاً! أنا **يُسرى** ✨ — مساعدتك الخاصة في ألفا ألتيميت.\n\nأنا هنا لمساعدتك في:\n• **معلومات الخدمات** والأسعار\n• **حجز** جلسة تنظيف\n• **المواعيد** والجدول الزمني\n• أي **أسئلة تنظيف** لديك\n\nكيف يمكنني مساعدتك اليوم؟",
+  ar: "أهلاً وسهلاً! أنا **يُسرى** ✨ — مساعدتك الخاصة في إيليفيت بيلدرز.\n\nأنا هنا لمساعدتك في:\n• **معلومات الخدمات** والأسعار\n• **حجز** جلسة تنظيف\n• **المواعيد** والجدول الزمني\n• أي **أسئلة تنظيف** لديك\n\nكيف يمكنني مساعدتك اليوم؟",
   bn: "স্বাগতম! আমি **ইউসরা** ✨ — আলফা আল্টিমেটের আপনার বিশেষ সহকারী।\n\nআমি আপনাকে সাহায্য করতে এখানে আছি:\n• **সেবা তথ্য** এবং মূল্য\n• **বুকিং** করতে\n• **সময়সূচী** সম্পর্কে\n• যেকোনো **পরিষ্কার প্রশ্নের** উত্তরে\n\nআজ আমি কীভাবে আপনার সাহায্য করতে পারি?",
 };
 

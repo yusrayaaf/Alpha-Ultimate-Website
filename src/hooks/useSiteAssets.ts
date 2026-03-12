@@ -15,7 +15,7 @@ export interface SiteAssets {
 const DEFAULTS: SiteAssets = {
   logo:       '/assets/alpha-logo.png',
   hero_video: '/assets/hero-video.mp4',
-  yusra_icon: null,
+  yusra_icon: '/assets/yusra-icon.png',
   favicon:    '/favicon.ico',
 };
 

@@ -672,11 +672,11 @@ function AnalyticsTab({ bookings }: { bookings: Booking[] }) {
 // ── Settings Tab (REAL — saves to NeonDB) ────────────────────────
 function SettingsTab() {
   const [form, setForm] = useState({
-    businessName:'Alpha Ultimate Premium Cleaning Services',
+    businessName:'Elevate Builders Ltd',
     phone1:'+966 57 8695494', phone2:'+966 56 3906822',
     email:'info@alpha-01.com', whatsapp:'+966 56 3906822',
     address:'Riyadh, Saudi Arabia',
-    metaTitle:'Alpha Ultimate — Premium Cleaning Riyadh',
+    metaTitle:'Elevate Builders Ltd — Construction Services Riyadh',
     metaDesc:"Riyadh's #1 premium cleaning service. Deep clean, move-in/out, post-construction. Book online 24/7.",
     bookingNotif:'true', reviewReminder:'true', whatsappNotif:'true', emailNotif:'false',
     currency:'SAR', language:'en', timezone:'Asia/Riyadh',
@@ -993,11 +993,11 @@ export default function AdminDashboard() {
         {/* Logo */}
         <div className="px-5 py-5 border-b border-white/[0.06] flex items-center justify-between">
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-[#FFD166] to-[#06D6A0] flex items-center justify-center shadow-lg shadow-yellow-400/30">
-              <img src="/assets/alpha-logo.png" alt="α" className="w-7 h-7 object-contain" onError={e=>{(e.target as HTMLImageElement).style.display='none';}}/>
+            <div className="w-9 h-9 rounded-xl flex items-center justify-center">
+              <img src="/assets/alpha-logo.png" alt="Elevate Builders" className="h-8 w-auto object-contain" onError={e=>{(e.target as HTMLImageElement).style.display='none';}}/>
             </div>
             <div>
-              <div className="font-display font-black text-white text-xs tracking-[0.12em]">ALPHA ULTIMATE</div>
+              <div className="font-display font-black text-white text-xs tracking-[0.12em]">ELEVATE BUILDERS LTD</div>
               <div className="text-[9px] text-gray-600 tracking-[0.1em]">Admin Dashboard</div>
             </div>
           </div>
