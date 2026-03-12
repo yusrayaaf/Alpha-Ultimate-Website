@@ -4,7 +4,7 @@ import { Shield, FileText, RefreshCw } from 'lucide-react';
 const sections = [
   {
     icon: Shield, title: 'Privacy Policy', color: '#14f195',
-    content: `Alpha Ultimate Ltd ("we", "us", or "our") is committed to protecting your privacy. This policy outlines how we collect, use, and safeguard your personal information.
+    content: `ELEVATE BUILDERS LTD Ltd ("we", "us", or "our") is committed to protecting your privacy. This policy outlines how we collect, use, and safeguard your personal information.
 
 We collect information you provide when booking services, contacting us, or using our website. This includes your name, phone number, email address, and location details.
 
@@ -14,7 +14,7 @@ By using our services, you consent to this privacy policy.`
   },
   {
     icon: FileText, title: 'Terms of Service', color: '#9945ff',
-    content: `By booking or using Alpha Ultimate services, you agree to these terms.
+    content: `By booking or using ELEVATE BUILDERS LTD services, you agree to these terms.
 
 Services are provided as described at the time of booking. Prices are subject to change but confirmed bookings will honor the agreed price.
 

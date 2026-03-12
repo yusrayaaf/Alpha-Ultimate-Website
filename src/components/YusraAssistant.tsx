@@ -104,7 +104,7 @@ function speak(text: string, lang: string, onEnd?: () => void) {
 }
 
 const GREETINGS: Record<string, string> = {
-  en: "Hello! I'm **Yusra** ✨ — your dedicated assistant at Alpha Ultimate.\n\nI'm here to help you with:\n• **Service information** and pricing\n• **Booking** a cleaning session\n• **Availability** and scheduling\n• Any **cleaning questions** you have\n\nHow can I assist you today?",
+  en: "Hello! I'm **Yusra** ✨ — your dedicated assistant at ELEVATE BUILDERS LTD.\n\nI'm here to help you with:\n• **Service information** and pricing\n• **Booking** a cleaning session\n• **Availability** and scheduling\n• Any **cleaning questions** you have\n\nHow can I assist you today?",
   ar: "أهلاً وسهلاً! أنا **يُسرى** ✨ — مساعدتك الخاصة في ألفا ألتيميت.\n\nأنا هنا لمساعدتك في:\n• **معلومات الخدمات** والأسعار\n• **حجز** جلسة تنظيف\n• **المواعيد** والجدول الزمني\n• أي **أسئلة تنظيف** لديك\n\nكيف يمكنني مساعدتك اليوم؟",
   bn: "স্বাগতম! আমি **ইউসরা** ✨ — আলফা আল্টিমেটের আপনার বিশেষ সহকারী।\n\nআমি আপনাকে সাহায্য করতে এখানে আছি:\n• **সেবা তথ্য** এবং মূল্য\n• **বুকিং** করতে\n• **সময়সূচী** সম্পর্কে\n• যেকোনো **পরিষ্কার প্রশ্নের** উত্তরে\n\nআজ আমি কীভাবে আপনার সাহায্য করতে পারি?",
 };
@@ -291,7 +291,7 @@ export default function YusraAssistant() {
                     <div className="flex items-center gap-1.5 mt-0.5">
                       {speaking
                         ? <><span className="flex gap-0.5 items-end h-3">{[1,2,3].map(i=><motion.span key={i} className="w-0.5 bg-green-400 rounded-full" animate={{height:['3px','10px','3px']}} transition={{duration:0.5,repeat:Infinity,delay:i*0.1}} />)}</span><span className="text-[10px] text-green-400">Speaking…</span></>
-                        : <><span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse" /><span className="text-[10px] text-gray-500">Alpha Ultimate AI · Online</span></>
+                        : <><span className="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse" /><span className="text-[10px] text-gray-500">ELEVATE BUILDERS LTD AI · Online</span></>
                       }
                     </div>
                   </div>

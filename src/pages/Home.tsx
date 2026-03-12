@@ -9,7 +9,7 @@ import FAQ from '../components/FAQ';
 import CtaBand from '../components/CtaBand';
 
 export default function Home() {
-  useSEO({ title: 'Home', description: 'Alpha Ultimate — Riyadh\'s #1 premium cleaning service. Deep cleaning, move-in/out, post-construction. Book 24/7.', canonical: '/' });
+  useSEO({ title: 'Home', description: 'ELEVATE BUILDERS LTD — Riyadh\'s #1 premium cleaning service. Deep cleaning, move-in/out, post-construction. Book 24/7.', canonical: '/' });
   return (
     <div style={{ background: '#050508' }}>
       <Hero />

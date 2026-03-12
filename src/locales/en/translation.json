@@ -17,7 +17,7 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "refundPolicy": "Refund Policy",
-    "copyright": "© {{year}} Alpha Ultimate Ltd. All Rights Reserved.",
+    "copyright": "© {{year}} ELEVATE BUILDERS LTD All Rights Reserved.",
     "developer": "Developed by Mohammad Maymul Hasan Shaon."
   },
   "hero": {
@@ -29,7 +29,7 @@
     }
   },
   "whyChooseUs": {
-    "title": "Why Choose Alpha Ultimate?",
+    "title": "Why Choose ELEVATE BUILDERS LTD?",
     "subtitle": "We are committed to providing an unparalleled cleaning experience, focusing on quality, reliability, and customer satisfaction.",
     "features": {
       "trustedProfessionals": {
@@ -123,11 +123,11 @@
     ]
   },
   "about": {
-    "title": "About Alpha Ultimate",
+    "title": "About ELEVATE BUILDERS LTD",
     "subtitle": "Learn more about our company, mission, and the dedicated team behind our success.",
     "story": {
       "title": "Our Story",
-      "text": "Founded in 2023, Alpha Ultimate started with a simple mission: to provide a cleaning service that is not only effective but also trustworthy and reliable. We saw a need for a service that clients could depend on, a team that they could trust in their homes and offices. Our journey began with a small, dedicated team, and through our commitment to excellence, we have grown into a leading name in the Riyadh cleaning industry."
+      "text": "Founded in 2023, ELEVATE BUILDERS LTD started with a simple mission: to provide a cleaning service that is not only effective but also trustworthy and reliable. We saw a need for a service that clients could depend on, a team that they could trust in their homes and offices. Our journey began with a small, dedicated team, and through our commitment to excellence, we have grown into a leading name in the Riyadh cleaning industry."
     },
     "mission": {
       "title": "Our Mission",
@@ -160,7 +160,7 @@
   },
   "ctaBand": {
     "title": "Ready for a Spotless Home?",
-    "subtitle": "Let Alpha Ultimate take care of the cleaning, so you can focus on what truly matters. Get your free estimate and book your service today.",
+    "subtitle": "Let ELEVATE BUILDERS LTD take care of the cleaning, so you can focus on what truly matters. Get your free estimate and book your service today.",
     "cta": "Book Now"
   },
   "services": {
@@ -173,7 +173,7 @@
     },
     "whyDifferent": {
       "title": "Why Our Cleaning Is Different",
-      "text": "At Alpha Ultimate, we don't just clean – we care. Our meticulous approach ensures we never cut corners. We use a detailed checklist for every job, guaranteeing consistency and quality."
+      "text": "At ELEVATE BUILDERS LTD, we don't just clean – we care. Our meticulous approach ensures we never cut corners. We use a detailed checklist for every job, guaranteeing consistency and quality."
     },
     "includedItems": "What's Included",
     "items": [
@@ -225,7 +225,7 @@
     }
   },
   "yusra": {
-    "welcome": "Hello! I'm Yusra, your virtual customer manager at Alpha Ultimate. How can I help you today? Ask me about pricing, booking, or any of our cleaning services.",
+    "welcome": "Hello! I'm Yusra, your virtual customer manager at ELEVATE BUILDERS LTD. How can I help you today? Ask me about pricing, booking, or any of our cleaning services.",
     "voiceMode": "Voice Mode",
     "voiceOn": "Voice On",
     "voiceOff": "Voice Off",

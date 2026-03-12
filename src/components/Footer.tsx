@@ -26,8 +26,8 @@ export default function Footer() {
                   onError={(e) => { (e.target as HTMLImageElement).style.display='none'; }} />
               </div>
               <div>
-                <span className="block text-[15px] font-black tracking-[0.18em] text-white" style={{ fontFamily: 'Urbanist, sans-serif' }}>ALPHA</span>
-                <span className="block text-[8px] tracking-[0.3em] uppercase" style={{ color: '#FFD166', fontFamily: 'Space Grotesk, sans-serif' }}>Ultimate</span>
+                <span className="block text-[15px] font-black tracking-[0.18em] text-white" style={{ fontFamily: 'Urbanist, sans-serif' }}>ELEVATE</span>
+                <span className="block text-[8px] tracking-[0.3em] uppercase" style={{ color: '#FFD166', fontFamily: 'Space Grotesk, sans-serif' }}>BUILDERS LTD</span>
               </div>
             </NavLink>
             <p className="text-gray-600 text-sm leading-relaxed mb-6" style={{ fontFamily: 'Space Grotesk, sans-serif' }}>

@@ -23,16 +23,16 @@ export default function TermsOfService() {
           className="bg-[#1a1a1a] p-8 rounded-xl border border-gray-800 max-w-4xl mx-auto prose prose-invert prose-lg prose-p:text-gray-300 prose-headings:text-teal-400"
         >
           <h2 className="text-2xl font-bold">1. Introduction</h2>
-          <p>Welcome to Alpha Ultimate. These Terms of Service govern your use of our website and services. By accessing our site, you agree to these terms.</p>
+          <p>Welcome to ELEVATE BUILDERS LTD. These Terms of Service govern your use of our website and services. By accessing our site, you agree to these terms.</p>
           
           <h2 className="text-2xl font-bold mt-8">2. Use of Our Services</h2>
           <p>You may use our services only for lawful purposes. You may not use our services to engage in any illegal or fraudulent activity.</p>
 
           <h2 className="text-2xl font-bold mt-8">3. Intellectual Property</h2>
-          <p>All content on this site, including text, graphics, logos, and images, is the property of Alpha Ultimate and is protected by copyright laws.</p>
+          <p>All content on this site, including text, graphics, logos, and images, is the property of ELEVATE BUILDERS LTD and is protected by copyright laws.</p>
 
           <h2 className="text-2xl font-bold mt-8">4. Limitation of Liability</h2>
-          <p>Alpha Ultimate will not be liable for any damages that arise from the use of our services. This includes direct, indirect, incidental, and consequential damages.</p>
+          <p>ELEVATE BUILDERS LTD will not be liable for any damages that arise from the use of our services. This includes direct, indirect, incidental, and consequential damages.</p>
 
           <h2 className="text-2xl font-bold mt-8">5. Changes to These Terms</h2>
           <p>We may update these Terms of Service from time to time. We will notify you of any changes by posting the new terms on this page.</p>

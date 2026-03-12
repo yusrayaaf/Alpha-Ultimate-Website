@@ -6,13 +6,13 @@ interface SEOProps {
   canonical?: string;
 }
 
-const BASE_TITLE = 'Alpha Ultimate | Premium Cleaning Services in Riyadh';
+const BASE_TITLE = 'ELEVATE BUILDERS LTD | Premium Cleaning Services in Riyadh';
 const BASE_URL = 'https://www.alpha-ultimate.com';
 
 export function useSEO({ title, description, canonical }: SEOProps) {
   useEffect(() => {
     // Update document title
-    document.title = title ? `${title} | Alpha Ultimate` : BASE_TITLE;
+    document.title = title ? `${title} | ELEVATE BUILDERS LTD` : BASE_TITLE;
 
     // Update meta description
     if (description) {

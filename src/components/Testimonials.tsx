@@ -7,11 +7,11 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 
 const ITEMS = [
-  { name:'Rania Al-Harbi',   role:'Villa Owner, Riyadh',       rating:5, text:"Alpha Ultimate exceeded every expectation. My villa was transformed overnight — walls, floors, fixtures, everything gleaming. Worth every riyal." },
+  { name:'Rania Al-Harbi',   role:'Villa Owner, Riyadh',       rating:5, text:"ELEVATE BUILDERS LTD exceeded every expectation. My villa was transformed overnight — walls, floors, fixtures, everything gleaming. Worth every riyal." },
   { name:'Omar Ababneh',     role:'Office Manager',             rating:5, text:"We book them monthly for our office. Punctual, professional, and thorough. Our staff genuinely notice the difference. Highly recommended." },
   { name:'Hessa Al-Shaalan', role:'Apartment Resident',        rating:5, text:"Booked a deep clean before my parents visit. The apartment looks better than when I first moved in. Fast booking, flawless result." },
   { name:'Fahad Al-Mutairi', role:'Construction Developer',    rating:5, text:"Their post-construction clean saved us two weeks of headaches. Site was pristine and move-in ready. Our go-to for every project." },
-  { name:'Layla Mahmoud',    role:'Working Mother',             rating:5, text:"With two kids and a full-time job, Alpha Ultimate is a lifesaver. They show up, deliver, disappear. No fuss, just a beautifully clean home." },
+  { name:'Layla Mahmoud',    role:'Working Mother',             rating:5, text:"With two kids and a full-time job, ELEVATE BUILDERS LTD is a lifesaver. They show up, deliver, disappear. No fuss, just a beautifully clean home." },
   { name:'Khaled Al-Rashid', role:'Restaurant Owner',          rating:5, text:"Commercial cleaning done right. Kitchen and dining area spotless after one session. Safe products, polite staff, fast service." },
 ];
 const COLORS = ['#FFD166','#06D6A0','#9B59FF','#FF6B6B','#C8F4FF','#FFB703'];

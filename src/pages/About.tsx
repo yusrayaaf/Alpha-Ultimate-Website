@@ -29,7 +29,7 @@ export default function About() {
               <span className="text-white">Built on </span><span className="grad-aurora">Trust & Excellence</span>
             </h1>
             <p className="text-gray-500 max-w-2xl mx-auto text-base sm:text-lg leading-relaxed">
-              Alpha Ultimate was founded with one vision: to make premium, professional cleaning accessible to every home and business in Riyadh. Since 2023, we've delivered thousands of spotless results with unwavering commitment to quality.
+              ELEVATE BUILDERS LTD was founded with one vision: to make premium, professional cleaning accessible to every home and business in Riyadh. Since 2023, we've delivered thousands of spotless results with unwavering commitment to quality.
             </p>
           </motion.div>
         </div>
@@ -54,7 +54,7 @@ export default function About() {
               Our Story — <span className="grad-lime">The Alpha Way</span>
             </h2>
             <p className="text-gray-400 leading-relaxed mb-4 text-base">
-              Alpha Ultimate was born from a simple frustration: cleaning services that over-promised and under-delivered. Our founders — experienced professionals with backgrounds in hospitality and facilities management — decided to build something different.
+              ELEVATE BUILDERS LTD was born from a simple frustration: cleaning services that over-promised and under-delivered. Our founders — experienced professionals with backgrounds in hospitality and facilities management — decided to build something different.
             </p>
             <p className="text-gray-500 leading-relaxed text-sm">
               We started with a small team in Riyadh, obsessing over every detail, every surface, every client interaction. That obsession grew into a reputation. Today, we're proud to serve 2,500+ families and businesses across Riyadh, with a 4.97-star average and a 100% satisfaction policy that we've never had to compromise on.
@@ -71,7 +71,7 @@ export default function About() {
               <div className="flex items-center gap-3">
                 <div className="w-10 h-10 rounded-full bg-gradient-to-br from-lime-400 to-emerald-500 flex items-center justify-center font-black text-black">A</div>
                 <div>
-                  <div className="font-bold text-white text-sm">Alpha Ultimate Founder</div>
+                  <div className="font-bold text-white text-sm">ELEVATE BUILDERS LTD Founder</div>
                   <div className="text-xs text-gray-600">Riyadh, Saudi Arabia</div>
                 </div>
               </div>

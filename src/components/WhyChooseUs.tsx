@@ -23,7 +23,7 @@ export default function WhyChooseUs() {
         {/* Header */}
         <motion.div initial={{ opacity: 0, y: 28 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.7 }}
           className="text-center mb-16 sm:mb-20">
-          <div className="badge mb-6">Why Choose Alpha Ultimate</div>
+          <div className="badge mb-6">Why Choose ELEVATE BUILDERS LTD</div>
           <h2 className="font-black mb-5 leading-[0.95]" style={{ fontFamily: 'Urbanist, sans-serif', fontSize: 'clamp(2rem,5.5vw,4rem)' }}>
             The Alpha <span style={{ background: 'linear-gradient(135deg,#FFD166,#FF9A3C)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text' }}>Difference</span>
           </h2>
