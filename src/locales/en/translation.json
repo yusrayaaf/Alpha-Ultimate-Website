@@ -1,0 +1,265 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "book": "Book Now",
+    "about": "About"
+  },
+  "footer": {
+    "tagline": "Premium cleaning services for a pristine home.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "refundPolicy": "Refund Policy",
+    "copyright": "© {{year}} Alpha Ultimate Ltd. All Rights Reserved.",
+    "developer": "Developed by Mohammad Maymul Hasan Shaon."
+  },
+  "hero": {
+    "title": "Unmatched Cleanliness, Unbeatable Service",
+    "subtitle": "Experience the new standard in home and office cleaning. We deliver quality, reliability, and a pristine environment every time.",
+    "cta": {
+      "book": "Book Your Cleaning Now",
+      "services": "Explore Our Services"
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Alpha Ultimate?",
+    "subtitle": "We are committed to providing an unparalleled cleaning experience, focusing on quality, reliability, and customer satisfaction.",
+    "features": {
+      "trustedProfessionals": {
+        "title": "Trusted Professionals",
+        "description": "Our team is fully vetted, trained, and insured to provide you with the highest standard of service and peace of mind."
+      },
+      "ecoFriendlyProducts": {
+        "title": "Eco-Friendly Products",
+        "description": "We use non-toxic, biodegradable cleaning products that are safe for your family, pets, and the environment."
+      },
+      "satisfactionGuaranteed": {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand by our work. If you are not 100% satisfied, we will come back and make it right. Your happiness is our priority."
+      },
+      "flexibleScheduling": {
+        "title": "Flexible Scheduling",
+        "description": "We offer convenient booking options, including one-time, weekly, bi-weekly, and monthly services to fit your busy lifestyle."
+      }
+    }
+  },
+  "servicesPreview": {
+    "title": "Our Core Services",
+    "subtitle": "We offer a range of professional cleaning services designed to meet the unique needs of our clients.",
+    "services": {
+      "residential": {
+        "title": "Residential Cleaning",
+        "description": "Comprehensive cleaning for apartments, villas, and homes of all sizes. We leave your space sparkling clean and healthy."
+      },
+      "commercial": {
+        "title": "Commercial Cleaning",
+        "description": "Professional cleaning services for offices, retail spaces, and other commercial properties to maintain a pristine environment."
+      },
+      "deepCleaning": {
+        "title": "Deep Cleaning",
+        "description": "An intensive, top-to-bottom cleaning service that targets hard-to-reach areas and eliminates deep-seated grime."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "galleryTeaser": {
+    "title": "Visual Proof of Quality",
+    "subtitle": "Witness the transformation. Our gallery showcases the meticulous care and stunning results we deliver every time.",
+    "cta": "View Full Gallery"
+  },
+  "howItWorks": {
+    "title": "Simple Steps to a Cleaner Space",
+    "subtitle": "Our process is designed to be seamless and hassle-free from start to finish.",
+    "steps": {
+      "book": {
+        "title": "1. Book Your Service",
+        "description": "Select your desired service, date, and time through our easy-to-use online booking form or by giving us a call."
+      },
+      "arrive": {
+        "title": "2. We Arrive",
+        "description": "Our professional and fully-equipped cleaning team will arrive at your location on time, ready to transform your space."
+      },
+      "clean": {
+        "title": "3. We Clean",
+        "description": "Using eco-friendly products and proven techniques, we meticulously clean your home or office to our exacting standards."
+      },
+      "enjoy": {
+        "title": "4. Enjoy Your Space",
+        "description": "Relax and enjoy your sparkling clean, healthy, and refreshed environment. We guarantee your complete satisfaction."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "We pride ourselves on delivering exceptional service. Here's what our customers think about us."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our cleaning services in Riyadh.",
+    "items": [
+      {
+        "question": "What services do you offer?",
+        "answer": "We offer a wide range of cleaning services including residential, commercial, and deep cleaning. We also provide specialized services such as carpet and window cleaning."
+      },
+      {
+        "question": "Are your cleaning products safe for pets and children?",
+        "answer": "Yes, we use eco-friendly and non-toxic cleaning products that are safe for all members of your family, including pets and children."
+      },
+      {
+        "question": "Do I need to be home during the cleaning?",
+        "answer": "No, you do not need to be home. Many of our clients provide us with a key or entry code. All of our staff are thoroughly vetted and insured for your peace of mind."
+      },
+      {
+        "question": "How do you determine your prices?",
+        "answer": "Our pricing is based on the size of your home, the type of service you require, and the frequency of cleaning. We offer transparent pricing with no hidden fees."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Alpha Ultimate",
+    "subtitle": "Learn more about our company, mission, and the dedicated team behind our success.",
+    "story": {
+      "title": "Our Story",
+      "text": "Founded in 2023, Alpha Ultimate started with a simple mission: to provide a cleaning service that is not only effective but also trustworthy and reliable. We saw a need for a service that clients could depend on, a team that they could trust in their homes and offices. Our journey began with a small, dedicated team, and through our commitment to excellence, we have grown into a leading name in the Riyadh cleaning industry."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "text": "To deliver exceptional cleaning services through meticulous attention to detail, eco-friendly practices, and a commitment to customer satisfaction. We aim to create healthier, happier living and working environments for our clients."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To be the most trusted and respected cleaning service provider in the region, known for our professionalism, reliability, and unwavering commitment to quality."
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "members": [
+        {
+          "name": "Abdullah Al-Fahad",
+          "title": { "en": "Founder & CEO", "ar": "المؤسس والرئيس التنفيذي", "bn": "প্রতিষ্ঠাতা ও প্রধান নির্বাহী কর্মকর্তা" },
+          "image": "https://picsum.photos/seed/abdullah/400/400"
+        },
+        {
+          "name": "Fatima Al-Saud",
+          "title": { "en": "Head of Operations", "ar": "رئيس العمليات", "bn": "অপারেশন প্রধান" },
+          "image": "https://picsum.photos/seed/fatima/400/400"
+        },
+        {
+          "name": "Yusuf Ahmed",
+          "title": { "en": "Customer Relations Manager", "ar": "مدير علاقات العملاء", "bn": "গ্রাহক সম্পর্ক ব্যবস্থাপক" },
+          "image": "https://picsum.photos/seed/yusuf/400/400"
+        }
+      ]
+    }
+  },
+  "ctaBand": {
+    "title": "Ready for a Spotless Home?",
+    "subtitle": "Let Alpha Ultimate take care of the cleaning, so you can focus on what truly matters. Get your free estimate and book your service today.",
+    "cta": "Book Now"
+  },
+  "services": {
+    "title": "Our Cleaning Services",
+    "subtitle": "Tailored solutions for every space. We provide a comprehensive range of cleaning services to ensure your environment is impeccably maintained.",
+    "loading": "Loading services...",
+    "whatYouGet": {
+      "title": "What You Get With Every Clean",
+      "items": ["Professional Staff","Eco-Friendly Products","Equipment Provided","Satisfaction Guarantee","Flexible Scheduling","Insured Service"]
+    },
+    "whyDifferent": {
+      "title": "Why Our Cleaning Is Different",
+      "text": "At Alpha Ultimate, we don't just clean – we care. Our meticulous approach ensures we never cut corners. We use a detailed checklist for every job, guaranteeing consistency and quality."
+    },
+    "includedItems": "What's Included",
+    "items": [
+      { "title": "Residential Cleaning", "description": "A thorough cleaning of your home, including dusting, vacuuming, mopping, and sanitizing kitchens and bathrooms." },
+      { "title": "Commercial Cleaning", "description": "Professional cleaning for offices and commercial spaces, ensuring a clean and productive work environment." },
+      { "title": "Deep Cleaning", "description": "An intensive cleaning service that covers every corner of your space, perfect for move-ins, move-outs, or seasonal cleaning." },
+      { "title": "Carpet Cleaning", "description": "Our advanced carpet cleaning techniques remove deep-seated dirt and stains, leaving your carpets fresh and revitalized." },
+      { "title": "Window Cleaning", "description": "Crystal-clear windows that enhance your view and brighten your space. We clean interior and exterior windows." },
+      { "title": "Post-Construction Cleaning", "description": "We handle the dust and debris left after construction or renovation, so you can enjoy your new space sooner." }
+    ]
+  },
+  "pricing": {
+    "title": "Transparent Pricing",
+    "subtitle": "Choose the plan that's right for you. All of our services come with a satisfaction guarantee.",
+    "tiers": [
+      { "type": "Standard Cleaning", "price": "SAR 150", "features": ["General dusting and wiping","Vacuuming and mopping floors","Basic bathroom and kitchen cleaning","Perfect for regular maintenance"] },
+      { "type": "Deep Cleaning", "price": "SAR 300", "features": ["Includes all standard cleaning tasks","Detailed cleaning of all surfaces","Appliance interiors (oven, fridge)","Ideal for a thorough clean"] },
+      { "type": "Move-In/Out Cleaning", "price": "SAR 450", "features": ["A comprehensive deep clean","Inside of all cabinets and drawers","Walls and baseboards washed","Ensures a fresh start in your new home"] }
+    ]
+  },
+  "booking": {
+    "title": "Book a Service",
+    "subtitle": "Fill in the form below and our team will confirm your booking shortly. Available 24/7.",
+    "form": {
+      "name": "Full Name",
+      "phone": "Phone Number",
+      "service": "Select Service",
+      "date": "Preferred Date",
+      "time": "Preferred Time",
+      "selectDate": "Select a date",
+      "notes": "Additional Notes",
+      "uploadMedia": "Upload Media (Optional)",
+      "uploadFile": "Upload a file",
+      "orDragAndDrop": "or drag and drop",
+      "fileTypes": "PNG, JPG, MP4 up to 10MB",
+      "submitRequest": "Submit Booking Request",
+      "sendOnWhatsApp": "Send on WhatsApp",
+      "location": "Your Location (Optional)",
+      "homeType": "Home / Property Type",
+      "submit": "Confirm Booking"
+    },
+    "homeTypes": {
+      "apartment": "Apartment",
+      "villa": "Villa",
+      "office": "Office",
+      "commercial": "Commercial Space",
+      "other": "Other",
+      "select": "Select Property Type"
+    }
+  },
+  "yusra": {
+    "welcome": "Hello! I'm Yusra, your virtual customer manager at Alpha Ultimate. How can I help you today? Ask me about pricing, booking, or any of our cleaning services.",
+    "voiceMode": "Voice Mode",
+    "voiceOn": "Voice On",
+    "voiceOff": "Voice Off",
+    "listening": "Listening...",
+    "speaking": "Speaking...",
+    "typeMessage": "Ask Yusra...",
+    "quickReplies": ["Pricing", "Booking", "Services", "Deep Cleaning", "Help"]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help. Contact us with any questions or to schedule your next cleaning service.",
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information"
+    }
+  },
+  "gallery": {
+    "title": "Our Work in Action",
+    "subtitle": "Browse our gallery to see the quality and attention to detail we bring to every job.",
+    "images": [
+      { "src": "https://picsum.photos/seed/gallery1/800/600", "alt": "A sparkling clean kitchen after our service." },
+      { "src": "https://picsum.photos/seed/gallery2/800/600", "alt": "A tidy and organized living room." },
+      { "src": "https://picsum.photos/seed/gallery3/800/600", "alt": "A spotless bathroom with shining fixtures." },
+      { "src": "https://picsum.photos/seed/gallery4/800/600", "alt": "A clean and professional office space." },
+      { "src": "https://picsum.photos/seed/gallery5/800/600", "alt": "A freshly vacuumed carpet with perfect lines." },
+      { "src": "https://picsum.photos/seed/gallery6/800/600", "alt": "Sunlight streaming through crystal-clear windows." },
+      { "src": "https://picsum.photos/seed/gallery7/800/600", "alt": "A deep-cleaned oven, looking brand new." },
+      { "src": "https://picsum.photos/seed/gallery8/800/600", "alt": "A welcoming and immaculate entryway." }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment files — NEVER commit
+.env
+.env.local
+.env.production
+.env.development
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Upload cache
+uploads/
+
+# Editor
+.vscode/
+.idea/
+
+# Backup files
+deploy.sh.bak
+*.bak
+.env*.local
+.vercel/

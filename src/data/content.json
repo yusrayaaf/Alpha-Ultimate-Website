@@ -1,0 +1,450 @@
+{
+  "home": {
+    "hero": {
+      "title": "Unmatched Cleanliness, Unbeatable Service",
+      "subtitle": "Experience the new standard in home and office cleaning. We deliver quality, reliability, and a pristine environment every time.",
+      "cta": "Book Your Cleaning Now"
+    }
+  },
+  "services": [
+    {
+      "id": "post-construction",
+      "title": "Post-Construction Cleaning",
+      "description": "Remove fine dust, cement residue, and paint splashes. Deep clean floors, walls, and fixtures. Leave your space move-in ready.",
+      "image": "/assets/gallery-kitchen-1.png",
+      "benefits": {
+        "en": [
+          "Dust-Free Environment",
+          "Move-In Ready",
+          "Paint Splash Removal",
+          "Deep Surface Clean"
+        ],
+        "ar": [
+          "بيئة خالية من الغبار",
+          "جاهز للسكن",
+          "إزالة رشاشات الطلاء",
+          "تنظيف عميق للأسطح"
+        ],
+        "bn": [
+          "ধুলামুক্ত পরিবেশ",
+          "মুভ-ইন প্রস্তুত",
+          "রঙের ছিটা অপসারণ",
+          "গভীর পৃষ্ঠ পরিষ্কার"
+        ]
+      },
+      "duration": "4–8 Hours",
+      "includedItems": {
+        "en": [
+          "Cement & Dust Removal",
+          "Floor Deep Clean",
+          "Window & Glass Clean",
+          "Fixture Polish"
+        ],
+        "ar": [
+          "إزالة الإسمنت والغبار",
+          "تنظيف عميق للأرضيات",
+          "تنظيف النوافذ والزجاج",
+          "تلميع التجهيزات"
+        ],
+        "bn": [
+          "সিমেন্ট ও ধুলো অপসারণ",
+          "মেঝে গভীর পরিষ্কার",
+          "জানালা ও কাচ পরিষ্কার",
+          "ফিক্সচার পালিশ"
+        ]
+      }
+    },
+    {
+      "id": "move-in-out",
+      "title": "Move-In / Move-Out Cleaning",
+      "description": "Comprehensive cleaning for relocation. Clean cabinets, appliances, bathrooms, floors, and walls for a spotless handover.",
+      "image": "/assets/gallery-whole-home-1.png",
+      "benefits": {
+        "en": [
+          "Full Property Clean",
+          "Cabinet Interior Clean",
+          "Appliance Deep Clean",
+          "Spotless Handover"
+        ],
+        "ar": [
+          "تنظيف كامل للعقار",
+          "تنظيف داخل الخزائن",
+          "تنظيف عميق للأجهزة",
+          "تسليم مثالي"
+        ],
+        "bn": [
+          "সম্পূর্ণ সম্পত্তি পরিষ্কার",
+          "ক্যাবিনেট অভ্যন্তর পরিষ্কার",
+          "যন্ত্রপাতি গভীর পরিষ্কার",
+          "নিখুঁত হস্তান্তর"
+        ]
+      },
+      "duration": "5–10 Hours",
+      "includedItems": {
+        "en": [
+          "All Rooms & Surfaces",
+          "Kitchen Appliances",
+          "Cabinet Interiors",
+          "Bathroom Sanitization"
+        ],
+        "ar": [
+          "جميع الغرف والأسطح",
+          "الأجهزة المنزلية",
+          "داخل الخزائن",
+          "تعقيم الحمامات"
+        ],
+        "bn": [
+          "সব ঘর ও পৃষ্ঠ",
+          "রান্নাঘরের যন্ত্রপাতি",
+          "ক্যাবিনেট অভ্যন্তর",
+          "বাথরুম স্যানিটাইজেশন"
+        ]
+      }
+    },
+    {
+      "id": "full-home-deep",
+      "title": "Full Home Deep Cleaning",
+      "description": "Top-to-bottom comprehensive clean. All rooms, furniture, and hard-to-reach areas thoroughly cleaned.",
+      "image": "/assets/after-1.png",
+      "benefits": {
+        "en": [
+          "All Rooms Covered",
+          "Furniture Cleaned",
+          "Hard-to-Reach Areas",
+          "100% Satisfaction"
+        ],
+        "ar": [
+          "جميع الغرف مشمولة",
+          "الأثاث منظف",
+          "المناطق يصعب الوصول إليها",
+          "رضا ١٠٠٪"
+        ],
+        "bn": [
+          "সব ঘর অন্তর্ভুক্ত",
+          "আসবাবপত্র পরিষ্কার",
+          "কঠিন-নাগালের এলাকা",
+          "১০০% সন্তুষ্টি"
+        ]
+      },
+      "duration": "6–12 Hours",
+      "includedItems": {
+        "en": [
+          "All Bedrooms & Living Areas",
+          "Kitchen & Bathrooms",
+          "Furniture & Upholstery",
+          "Balcony & Storage"
+        ],
+        "ar": [
+          "جميع غرف النوم والمعيشة",
+          "المطبخ والحمامات",
+          "الأثاث والمفروشات",
+          "الشرفة والمخزن"
+        ],
+        "bn": [
+          "সব শোয়ার ঘর ও বসার ঘর",
+          "রান্নাঘর ও বাথরুম",
+          "আসবাবপত্র ও আপহোলস্ট্রি",
+          "বারান্দা ও স্টোরেজ"
+        ]
+      }
+    },
+    {
+      "id": "standard-home",
+      "title": "Standard Home Cleaning",
+      "description": "Regular maintenance cleaning. Dusting, sweeping, mopping, bathroom, and kitchen for a consistently clean home.",
+      "image": "/assets/after-2.png",
+      "benefits": {
+        "en": [
+          "Regular Maintenance",
+          "Fast & Efficient",
+          "Eco-Friendly Products",
+          "Flexible Scheduling"
+        ],
+        "ar": [
+          "صيانة منتظمة",
+          "سريع وفعال",
+          "منتجات صديقة للبيئة",
+          "جدولة مرنة"
+        ],
+        "bn": [
+          "নিয়মিত রক্ষণাবেক্ষণ",
+          "দ্রুত ও দক্ষ",
+          "পরিবেশবান্ধব পণ্য",
+          "নমনীয় সময়সূচী"
+        ]
+      },
+      "duration": "2–4 Hours",
+      "includedItems": {
+        "en": [
+          "Dusting & Wiping",
+          "Vacuuming & Mopping",
+          "Bathroom Cleaning",
+          "Kitchen Cleaning"
+        ],
+        "ar": [
+          "إزالة الغبار والمسح",
+          "الكنس والمسح بالمماسح",
+          "تنظيف الحمام",
+          "تنظيف المطبخ"
+        ],
+        "bn": [
+          "ধুলো ঝাড়া ও মোছা",
+          "ভ্যাকুয়াম ও মপিং",
+          "বাথরুম পরিষ্কার",
+          "রান্নাঘর পরিষ্কার"
+        ]
+      }
+    },
+    {
+      "id": "kitchen-deep",
+      "title": "Kitchen Deep Cleaning",
+      "description": "Remove grease, sanitize all surfaces, scrub sinks, polish appliances. Make your kitchen shine like new.",
+      "image": "/assets/gallery-kitchen-1.png",
+      "benefits": {
+        "en": [
+          "Grease Removal",
+          "Sanitized Surfaces",
+          "Appliance Polish",
+          "Odor Elimination"
+        ],
+        "ar": [
+          "إزالة الشحوم",
+          "أسطح معقمة",
+          "تلميع الأجهزة",
+          "القضاء على الروائح"
+        ],
+        "bn": [
+          "গ্রিজ অপসারণ",
+          "স্যানিটাইজড পৃষ্ঠ",
+          "যন্ত্রপাতি পালিশ",
+          "গন্ধ দূরীকরণ"
+        ]
+      },
+      "duration": "2–3 Hours",
+      "includedItems": {
+        "en": [
+          "Countertops & Backsplash",
+          "Oven & Microwave",
+          "Sink & Faucets",
+          "Cabinet Exteriors"
+        ],
+        "ar": [
+          "أسطح العمل والجدار الخلفي",
+          "الفرن والميكروويف",
+          "الحوض والصنابير",
+          "خارج الخزائن"
+        ],
+        "bn": [
+          "কাউন্টারটপ ও ব্যাকস্প্ল্যাশ",
+          "ওভেন ও মাইক্রোওয়েভ",
+          "সিঙ্ক ও ট্যাপ",
+          "ক্যাবিনেট বাইর"
+        ]
+      }
+    },
+    {
+      "id": "sofa-mattress",
+      "title": "Sofa & Mattress Cleaning",
+      "description": "Remove dust, stains, and odors from sofas and mattresses. Extend furniture life with professional deep cleaning.",
+      "image": "/assets/gallery-whole-home-1.png",
+      "benefits": {
+        "en": [
+          "Stain Removal",
+          "Odor Elimination",
+          "Dust Mite Treatment",
+          "Fabric Protection"
+        ],
+        "ar": [
+          "إزالة البقع",
+          "القضاء على الروائح",
+          "معالجة عث الغبار",
+          "حماية الأقمشة"
+        ],
+        "bn": [
+          "দাগ অপসারণ",
+          "গন্ধ দূরীকরণ",
+          "ধুলো মাইট চিকিৎসা",
+          "ফ্যাব্রিক সুরক্ষা"
+        ]
+      },
+      "duration": "1–3 Hours",
+      "includedItems": {
+        "en": [
+          "Sofa Deep Clean",
+          "Mattress Sanitization",
+          "Cushion Cleaning",
+          "Odor Treatment"
+        ],
+        "ar": [
+          "تنظيف الأرائك العميق",
+          "تعقيم المراتب",
+          "تنظيف الوسائد",
+          "معالجة الروائح"
+        ],
+        "bn": [
+          "সোফা গভীর পরিষ্কার",
+          "ম্যাট্রেস স্যানিটাইজেশন",
+          "কুশন পরিষ্কার",
+          "গন্ধ চিকিৎসা"
+        ]
+      }
+    },
+    {
+      "id": "office-commercial",
+      "title": "Office & Commercial Cleaning",
+      "description": "Professional cleaning for offices and shops. Desks, floors, windows, and restrooms for a productive environment.",
+      "image": "/assets/after-2.png",
+      "benefits": {
+        "en": [
+          "Professional Environment",
+          "Regular Scheduling",
+          "All Surfaces Covered",
+          "Restroom Sanitization"
+        ],
+        "ar": [
+          "بيئة مهنية",
+          "جدولة منتظمة",
+          "جميع الأسطح مشمولة",
+          "تعقيم دورات المياه"
+        ],
+        "bn": [
+          "পেশাদার পরিবেশ",
+          "নিয়মিত সময়সূচী",
+          "সব পৃষ্ঠ অন্তর্ভুক্ত",
+          "রেস্টরুম স্যানিটাইজেশন"
+        ]
+      },
+      "duration": "3–8 Hours",
+      "includedItems": {
+        "en": [
+          "Workstations & Desks",
+          "Floor Cleaning & Polishing",
+          "Window Cleaning",
+          "Restroom Sanitization"
+        ],
+        "ar": [
+          "محطات العمل والمكاتب",
+          "تنظيف وتلميع الأرضيات",
+          "تنظيف النوافذ",
+          "تعقيم دورات المياه"
+        ],
+        "bn": [
+          "ওয়ার্কস্টেশন ও ডেস্ক",
+          "মেঝে পরিষ্কার ও পালিশ",
+          "জানালা পরিষ্কার",
+          "রেস্টরুম স্যানিটাইজেশন"
+        ]
+      }
+    },
+    {
+      "id": "bathroom-deep",
+      "title": "Bathroom Deep Cleaning",
+      "description": "Disinfect tiles, toilets, sinks, and showers. Remove stains and odors for a hygienic, sparkling bathroom.",
+      "image": "/assets/gallery-whole-home-1.png",
+      "benefits": {
+        "en": [
+          "Full Disinfection",
+          "Grout Cleaning",
+          "Stain Removal",
+          "Odor Elimination"
+        ],
+        "ar": [
+          "تعقيم كامل",
+          "تنظيف الغراء",
+          "إزالة البقع",
+          "القضاء على الروائح"
+        ],
+        "bn": [
+          "সম্পূর্ণ জীবাণুমুক্তকরণ",
+          "গ্রাউট পরিষ্কার",
+          "দাগ অপসারণ",
+          "গন্ধ দূরীকরণ"
+        ]
+      },
+      "duration": "1–2 Hours",
+      "includedItems": {
+        "en": [
+          "Toilet Disinfection",
+          "Tile & Grout Scrubbing",
+          "Mirror & Glass Polish",
+          "Drain Cleaning"
+        ],
+        "ar": [
+          "تعقيم المراحيض",
+          "تنظيف البلاط والغراء",
+          "تلميع المرايا والزجاج",
+          "تنظيف الصرف"
+        ],
+        "bn": [
+          "টয়লেট জীবাণুমুক্তকরণ",
+          "টাইল ও গ্রাউট স্ক্রাবিং",
+          "মিরর ও গ্লাস পালিশ",
+          "ড্রেন পরিষ্কার"
+        ]
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": "What services do you offer?",
+      "answer": "We offer Post-Construction, Move-In/Out, Full Home Deep Clean, Standard Home, Kitchen Deep Clean, Bathroom Deep Clean, Sofa & Mattress, and Office & Commercial cleaning."
+    },
+    {
+      "question": "Are your products safe for children and pets?",
+      "answer": "Yes, we exclusively use eco-friendly, non-toxic, and biodegradable cleaning products completely safe for children and pets."
+    },
+    {
+      "question": "Do I need to be home during cleaning?",
+      "answer": "No. Many clients provide a key or entry code. All our staff are fully vetted, trained, and insured for your peace of mind."
+    },
+    {
+      "question": "What areas in Riyadh do you serve?",
+      "answer": "We serve all areas of Riyadh and surrounding regions including Diriyah, Al-Kharj, and Ad-Dilam."
+    },
+    {
+      "question": "Do you operate 24/7?",
+      "answer": "Yes! We operate 24/7, including weekends and public holidays. Book anytime and our team will accommodate your schedule."
+    },
+    {
+      "question": "How is pricing determined?",
+      "answer": "Pricing depends on your home size, service type, and current condition. Use our online price estimator for an instant quote."
+    }
+  ],
+  "about": {
+    "story": "Founded in Riyadh, Alpha Ultimate started with a simple mission: deliver cleaning services that are effective, trustworthy, and reliable. Through commitment to excellence, we grew into a leading name in the Riyadh cleaning industry.",
+    "mission": "To deliver exceptional cleaning services through meticulous attention to detail, eco-friendly practices, and an unwavering commitment to customer satisfaction.",
+    "vision": "To be the most trusted and respected cleaning service provider in the region, known for professionalism, reliability, and unwavering quality."
+  },
+  "contact": {
+    "address": "Riyadh, Kingdom of Saudi Arabia",
+    "phone": "+966578695494",
+    "email": "info@alpha-ultimate.com"
+  },
+  "testimonials": [
+    {
+      "name": "Sarah Al-Amri",
+      "text": "Alpha Ultimate transformed my home! The team was professional, thorough, and left everything spotless. Highly recommend their deep cleaning service.",
+      "rating": 5
+    },
+    {
+      "name": "Mohammed Al-Qahtani",
+      "text": "Best cleaning service in Riyadh. Highly recommended for post-construction cleaning. Very professional and efficient team.",
+      "rating": 5
+    },
+    {
+      "name": "Layla Hassan",
+      "text": "Excellent service and great attention to detail. Worth every riyal. Will definitely book again.",
+      "rating": 5
+    },
+    {
+      "name": "Omar Al-Rashid",
+      "text": "Used Alpha Ultimate for our office and the results exceeded expectations. Punctual, efficient team with zero mess left behind.",
+      "rating": 5
+    },
+    {
+      "name": "Fatima Al-Zahrani",
+      "text": "Booked move-in cleaning for my new apartment and couldn't be happier. Everything was spotless and smelled fresh.",
+      "rating": 5
+    }
+  ]
+}
